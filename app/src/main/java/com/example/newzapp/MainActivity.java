@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     Button buttonBusiness, buttonEntertainment, buttonGeneral, buttonHealth, buttonScience, buttonSports, buttonTechnology;
 
-    String apiKey = "1bc5ffa7af914ca18f1d31bb08b654d1";
+    String apiKey = "1bc5ffa7af9148b654d1";
     String baseUrl = "https://newsapi.org/v2/";
 
     @Override
